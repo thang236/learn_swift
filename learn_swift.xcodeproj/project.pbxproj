@@ -16,6 +16,7 @@
 		BF65B0EE2C6212DB00BA3CF7 /* learn_swiftTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF65B0ED2C6212DB00BA3CF7 /* learn_swiftTests.swift */; };
 		BF65B0F82C6212DB00BA3CF7 /* learn_swiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF65B0F72C6212DB00BA3CF7 /* learn_swiftUITests.swift */; };
 		BF65B0FA2C6212DB00BA3CF7 /* learn_swiftUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF65B0F92C6212DB00BA3CF7 /* learn_swiftUITestsLaunchTests.swift */; };
+		BF65B1072C62153900BA3CF7 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF65B1062C62153900BA3CF7 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BF65B0F32C6212DB00BA3CF7 /* learn_swiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = learn_swiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF65B0F72C6212DB00BA3CF7 /* learn_swiftUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learn_swiftUITests.swift; sourceTree = "<group>"; };
 		BF65B0F92C6212DB00BA3CF7 /* learn_swiftUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learn_swiftUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF65B1062C62153900BA3CF7 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				BF65B0DF2C6212DA00BA3CF7 /* Assets.xcassets */,
 				BF65B0E12C6212DA00BA3CF7 /* LaunchScreen.storyboard */,
 				BF65B0E42C6212DA00BA3CF7 /* Info.plist */,
+				BF65B1062C62153900BA3CF7 /* CollectionViewCell.swift */,
 			);
 			path = learn_swift;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				BF65B0DB2C6212D800BA3CF7 /* ViewController.swift in Sources */,
 				BF65B0D72C6212D800BA3CF7 /* AppDelegate.swift in Sources */,
+				BF65B1072C62153900BA3CF7 /* CollectionViewCell.swift in Sources */,
 				BF65B0D92C6212D800BA3CF7 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
