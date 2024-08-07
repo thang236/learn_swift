@@ -60,7 +60,7 @@
                                         <size key="customSize" width="350" height="350"/>
                                         <connections>
                                             <outlet property="imageView" destination="eXp-v7-Enh" id="gZ7-LZ-mzW"/>
-                                            <outlet property="titleLBL" destination="CFI-lb-tFP" id="gBj-39-8Xq"/>
+                                            <outlet property="titleLabel" destination="CFI-lb-tFP" id="bjt-iL-OIP"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
@@ -80,7 +80,7 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="CollectionView" destination="eQ1-7j-5t8" id="YRv-yN-rmX"/>
+                        <outlet property="collectionView" destination="eQ1-7j-5t8" id="U4B-ov-iIE"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
