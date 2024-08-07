@@ -41,7 +41,7 @@ extension ViewController: UICollectionViewDelegate, UICollectionViewDataSource, 
         }
         
         
-        cell.setupData(Car: cars[indexPath.row])
+        cell.setupData(car: cars[indexPath.row])
         
         return cell
         

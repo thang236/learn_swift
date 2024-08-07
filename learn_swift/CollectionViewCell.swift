@@ -14,7 +14,7 @@ class CollectionViewCell: UICollectionViewCell {
     
     @IBOutlet weak var titleLabel: UILabel!
     
-    func setupData(Car car: Car) {
+    func setupData( car: Car) {
         titleLabel.text = car.titile
         imageView.image = UIImage(named: car.image)
         
